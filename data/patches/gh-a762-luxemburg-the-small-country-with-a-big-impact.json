@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Luxemburg, the small Country, with a big impact",
+	"description": "On the right, you can see \"De Roude Léiw\" (The red lion), which is the emblem or mascot of Luxembourg.\n\nOn the left, you can see the \"Gëlle Fra\" (golden Woman) which is the Monument of Remembrance for the war.  It is dedicated to the thousands of Luxembourgers who volunteered for service in the armed forces of the Allied Powers during both World Wars and the Korean War.\n\nIn the middle is the country outline of Luxembourg with our 3 colors, red, white and a light blue. ",
+	"links": {},
+	"path": {
+		"191": [
+			[
+				665,
+				-634
+			],
+			[
+				653,
+				-635
+			],
+			[
+				641,
+				-611
+			],
+			[
+				680,
+				-611
+			],
+			[
+				680,
+				-640
+			],
+			[
+				640,
+				-640
+			],
+			[
+				641,
+				-611
+			]
+		]
+	},
+	"center": {
+		"191": [
+			669,
+			-622
+		]
+	}
+}
